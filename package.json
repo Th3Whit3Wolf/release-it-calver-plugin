@@ -1,6 +1,6 @@
 {
-  "name": "@csmith/release-it-calver-plugin",
-  "version": "2023.12.0",
+  "name": "Th3Whit3Wolf/release-it-calver-plugin",
+  "version": "2025.08.20",
   "description": "Calender Versioning (calver) plugin for Release It!",
   "main": "index.js",
   "scripts": {
@@ -31,16 +31,16 @@
   "homepage": "https://github.com/casmith/release-it-calver-plugin#readme",
   "type": "module",
   "dependencies": {
-    "calver": "^22.9.1",
+    "calver": "^24.1.0",
     "chai": "^5.0.0",
     "mocha": "^10.2.0"
   },
   "devDependencies": {
-    "nyc": "^15.1.0",
-    "release-it": "^17.0.0"
+    "nyc": "^17.0.0",
+    "release-it": "^19.0.0"
   },
   "peerDependencies": {
-    "release-it": "^17.0.0"
+    "release-it": "^19.0.0"
   },
   "release-it": {
     "git": {
